@@ -1,0 +1,53 @@
+@font-face {
+  font-family: "Uber Move Text";
+  src: url("./fonts/UberMoveTextBold.woff2") format("woff2"),
+    url("./fonts/UberMoveTextBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: "Uber Move Text";
+  src: url("./fonts/UberMoveTextMedium.woff2") format("woff2"),
+    url("./fonts/UberMoveTextMedium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: "Calibre";
+  src: url("./fonts/FeyCalibre-Regular.woff2") format("woff2"),
+    url("./fonts/FeyCalibre-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: "Calibre";
+  src: url("./fonts/FeyCalibre-Bold.woff2") format("woff2"),
+    url("./fonts/FeyCalibre-Bold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: "Quincy CF";
+  src: url("./fonts/QuincyCF-Medium.woff2") format("woff2"),
+    url("./fonts/QuincyCF-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: "Quincy CF Text";
+  src: url("./fonts/QuincyCF-Text.woff2") format("woff2"),
+    url("./fonts/QuincyCF-Text.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
